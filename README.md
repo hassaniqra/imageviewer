@@ -70,5 +70,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
-# imageviewer
+# Imageviewer Web App
 >>>>>>> 6f75c86a5f2e4d989874a5534d56f08fa99f640a
+# Ouput
+### Try Live: http://13.233.227.205:3000/
+![image](https://github.com/hassaniqra/imageviewer/assets/123856116/e03ac4c4-2949-4b62-9d74-01f83ab2fac4)
+
+
+
